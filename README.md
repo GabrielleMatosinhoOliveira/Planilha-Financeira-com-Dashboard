@@ -12,11 +12,5 @@ Este repositório contém uma planilha de gestão financeira, desenvolvida no Mi
 - Gráficos interativos: fornecem uma representação visual das informações financeiras.
 - Automação do Dashboard: os resultados são gerados automaticamente com base nos dados inseridos na aba "Data".
 - Simples e intuitiva: ideal para qualquer pessoa que deseja gerenciar suas finanças com eficiência.
-  
-# Como Utilizar :memo:
-1. Faça o download da planilha.
-2. Abra o arquivo no Microsoft Excel.
-3. Preencha a aba "Data" com as informações de entradas e saídas financeiras.
-4. Acesse o Dashboard para visualizar gráficos, tabelas dinâmicas e análises automáticas de seus dados.
-   
-:keyboard: por Keylla da :orange_heart::blue_heart: CAIXA:package:
+    
+
